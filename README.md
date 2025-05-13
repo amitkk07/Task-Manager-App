@@ -29,7 +29,8 @@ A feature-rich and responsive Task Manager application built with **React + Vite
 
 -cd task-manager-app
 
--npm install
+-npm install --legacy-peer-deps
+
 
 -npm run dev
 
