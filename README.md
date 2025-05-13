@@ -24,8 +24,8 @@ A feature-rich and responsive Task Manager application built with **React + Vite
 - CSS Modules
 - Local Storage
 ## Command To run the Project
-git clone https://github.com/amitkk07/task-manager-app.git
-cd task-manager-app
-npm install
-npm run dev
+-git clone https://github.com/amitkk07/task-manager-app.git
+-cd task-manager-app
+-npm install
+-npm run dev
 
